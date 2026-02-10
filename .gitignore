@@ -1,0 +1,10 @@
+build/
+.vs/
+x64/
+Debug/
+Release/
+*.sln
+*.vcxproj*
+.vscode/
+CppProperties.json
+
